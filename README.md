@@ -15,4 +15,4 @@ Now run `cargo run`
 
 ### Setting up rust environment
 
-Try [](https://rustup.rs)
+Try https://rustup.rs
