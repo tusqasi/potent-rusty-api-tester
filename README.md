@@ -1,4 +1,5 @@
 # potent-rusty-api-tester
+![Made using chatGPT](https://img.shields.io/badge/Made%20using-chatGPT-1ad9aa)
 
 This bit of code will check the [basic test of a phoenix REST api](https://github.com/tusqasi/elixir_rest_api) 
 
